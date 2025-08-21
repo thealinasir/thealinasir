@@ -22,8 +22,6 @@
 - 🌱 Currently sharpening **system design & advanced programming**.  
 - 📍 Based in **Pakistan**.  
 
-> “Talk is cheap. Show me the code.” — *Linus Torvalds*
-
 ---
 
 ## 🧰 Tech Stack  
@@ -91,5 +89,5 @@
 ---
 
 <p align="center">
-  <sub>Last updated: Auto • Made with ❤️ by Ali Nasir</sub>
+  <sub>“Engineers like to solve problems. If there are no problems handily available, they will create their own.” — Scott Adams</sub>  
 </p>
